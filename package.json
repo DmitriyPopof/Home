@@ -1,0 +1,28 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000H\u0000o\u0000m\u0000e\u0000\r\u0000 \u0000",
+  "main": "data.source.js",
+  "dependencies": {
+    "antd": "^4.15.1",
+    "enquire-js": "^0.2.1",
+    "rc-banner-anim": "^2.4.5",
+    "rc-queue-anim": "^1.8.5",
+    "rc-scroll-anim": "^2.7.6",
+    "rc-tween-one": "^2.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyPopof/Home.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyPopof/Home/issues"
+  },
+  "homepage": "https://github.com/DmitriyPopof/Home#readme"
+}
