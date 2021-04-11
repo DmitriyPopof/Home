@@ -1,4 +1,4 @@
-# 如何使用：
+# Как использовать：
 
-- umi 里如何使用[请查看](https://landing.ant.design/docs/use/umi)。
-- 其它脚手架使用[请查看](https://landing.ant.design/docs/use/getting-started)。
+- Как использовать umi, пожалуйста, [проверьте](https://landing.ant.design/docs/use/umi)。
+- Другое использование строительных компонентов, пожалуйста, [проверьте](https://landing.ant.design/docs/use/getting-started)。
