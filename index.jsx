@@ -37,7 +37,7 @@ export default class Home extends React.Component {
   }
 
   componentDidMount() {
-    // 适配手机屏幕;
+    // Адаптация к экрану мобильного телефона;
     enquireScreen((b) => {
       this.setState({ isMobile: !!b });
     });

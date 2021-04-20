@@ -40,7 +40,7 @@ export const Nav20DataSource = {
 };
 export const Banner00DataSource = {
   wrapper: { className: 'banner0' },
-  textWrapper: { className: 'banner0-text-wrapper' },
+  textWrapper: { className: 'banner0-text-wrapper knd3fdj4ibe-editor_css' },
   title: {
     className: 'banner0-title',
     children: 'https://zos.alipayobjects.com/rmsportal/HqnZZjBjWRbjyMr.png',
